@@ -1,0 +1,23 @@
+{
+  "name": "core-node-and-js-learning-project",
+  "version": "1.0.0",
+  "description": "Testing project for learning node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "cowsay Hello World!"
+  },
+  "keywords": [
+    "learning",
+    "node",
+    "javascript"
+  ],
+  "author": "Juan Pablo Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "import-from": "^3.0.0",
+    "webpack": "^4.35.0",
+    "webpack-cli": "^3.3.4"
+  }
+}
